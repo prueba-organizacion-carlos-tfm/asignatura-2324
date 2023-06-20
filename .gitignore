@@ -1,0 +1,17 @@
+pids
+logs
+node_modules
+npm-debug.log
+.vscode
+coverage/
+run
+dist
+.DS_Store
+.nyc_output
+.basement
+config.local.js
+basement_dist
+docs/src/.vuepress/cache/
+docs/src/.vuepress/dev/
+cache
+*.swp
